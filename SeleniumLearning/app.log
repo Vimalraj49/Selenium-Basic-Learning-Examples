@@ -1,0 +1,8 @@
+09/26/2023 21:51:42.948 [main] DEBUG log4jExamples.Log4jxmlConfigurator - This is a debug statement
+09/26/2023 21:51:42.957 [main] INFO  log4jExamples.Log4jxmlConfigurator - This is Info Log
+09/26/2023 21:51:42.957 [main] WARN  log4jExamples.Log4jxmlConfigurator - This is Warn Log
+09/26/2023 21:51:42.958 [main] ERROR log4jExamples.Log4jxmlConfigurator - This is Error Log
+09/26/2023 21:51:42.958 [main] FATAL log4jExamples.Log4jxmlConfigurator - This is Fatal Log
+09/26/2023 21:57:49.653 [main] WARN  log4jExamples.Log4jxmlConfigurator - This is Warn Log
+09/26/2023 21:57:49.659 [main] ERROR log4jExamples.Log4jxmlConfigurator - This is Error Log
+09/26/2023 21:57:49.659 [main] FATAL log4jExamples.Log4jxmlConfigurator - This is Fatal Log
